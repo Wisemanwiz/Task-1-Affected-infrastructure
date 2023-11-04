@@ -22,7 +22,7 @@ to communicate the severity of the incident to the right person so that the orga
 
 <p align="center">
 Instructions for task: <br/>
-<img src="https://imgur.com/ibxIoEz" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ibxIoEz.png?2" height="80%" width="80%" alt="Task 1"/>
 <br />
 <br />
 Select the disk:  <br/>
