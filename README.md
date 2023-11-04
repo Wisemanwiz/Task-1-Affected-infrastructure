@@ -21,12 +21,12 @@ to communicate the severity of the incident to the right person so that the orga
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Instructions for task: <br/>
+Instructions For Task: <br/>
 <img src="https://i.imgur.com/ibxIoEz.png?2" height="80%" width="80%" alt="Task 1"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+General Information About Task:  <br/>
+<img src="https://i.imgur.com/6fyI1N1.png?1" height="80%" width="80%" alt="Task 2"/>
 <br />
 <br />
 Enter the number of passes: <br/>
