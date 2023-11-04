@@ -21,8 +21,8 @@ to communicate the severity of the incident to the right person so that the orga
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/ibxIoEz" height="80%" width="80%" alt="Task 1"/>
+Instructions for task: <br/>
+<img src="https://imgur.com/ibxIoEz" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
