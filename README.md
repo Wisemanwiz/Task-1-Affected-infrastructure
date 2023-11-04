@@ -29,24 +29,24 @@ General Information About Task:  <br/>
 <img src="https://i.imgur.com/6fyI1N1.png?1" height="80%" width="80%" alt="Task 2"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Here Is Your Task: <br/>
+<img src="https://i.imgur.com/VCY99jg.png" height="80%" width="80%" alt="Task 3"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Firewall Dashboard:  <br/>
+<img src="https://i.imgur.com/p8FAkU7.png?1" height="80%" width="80%" alt="Task 4"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Firewall Infrastructure:  <br/>
+<img src="https://i.imgur.com/1sesQ9P.png?1" height="80%" width="80%" alt="Task 5"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Analyzing Firewall logs:  <br/>
+<img src="https://i.imgur.com/hG9xPeh.png?1" height="80%" width="80%" alt="Task 6"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Task Solution:  <br/>
+<img src="https://i.imgur.com/y4BZXyl.png?1" height="80%" width="80%" alt="Task 7"/>
 </p>
 
 <!--
